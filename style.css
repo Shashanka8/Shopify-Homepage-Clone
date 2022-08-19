@@ -1,0 +1,16 @@
+@import url("https://db.onlinewebfonts.com/c/ad26818d844de4534fd78bb03028ca79?family=Shopify+Sans+Web+Medium");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Shopify Sans Web Medium", Helvetica, Arial, "Lucida Grande",
+    sans-serif;
+  color: #6b7177;
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: 400;
+}
